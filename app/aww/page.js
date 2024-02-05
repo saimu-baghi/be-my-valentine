@@ -5,7 +5,7 @@ function Yes() {
     <main className="flex items-center justify-center h-screen">
       <div className="relative w-full max-w-screen-lg">
         <video
-          src="gif/lego.mp4"
+          src="resources/lego-I Just.mp4"
           autoPlay
           loop
           className="w-full h-full object-cover"
